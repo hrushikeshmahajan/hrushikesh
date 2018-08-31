@@ -3,6 +3,6 @@ include<iostream>
 
 	int main()
 	{
-		cout << "Hello World!";
+		cout << "H World!";
 		return 0;
 	}
